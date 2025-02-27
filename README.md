@@ -235,7 +235,7 @@ This project is open-source and available under the **MIT License**.
 
 ---
 🔗 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([(https://www.linkedin.com/in/vanshu778/])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/vanshu778/)  
 [![GitHub](https://img.shields.io/badge/GitHub-vanshu778-black?logo=github)](https://github.com/vanshu778)
 
 🌟 **If you found this repository helpful, don't forget to star ⭐ it!**
